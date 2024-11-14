@@ -1,0 +1,33 @@
+_repo: Le-Robinson-des-Alpes_74688
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Aimard, Gustave
+    alias: Gloux, Olivier
+    birthdate: 1818
+    deathdate: 1883
+    gutenberg_agent_id: '5146'
+    url: http://www.gutenberg.org/2009/agents/5146
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Gustave_Aimard
+    - https://en.wikipedia.org/wiki/Gustave_Aimard
+description: ''
+gutenberg_issued: '2024-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74688'
+language: fr
+pgterms:marc904: https://gallica.bnf.fr/ark:/12148/bpt6k135064v
+pgterms:marc905: 20241104121956aimard
+pgterms:marc906: '1888'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This file was produced from images generously made
+  available by the Bibliothèque nationale de France (BnF/Gallica))
+publication_note: '  $aParis :$bHenri Gautier, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Le Robinson des Alpes
+url: http://www.gutenberg.org/ebooks/74688
