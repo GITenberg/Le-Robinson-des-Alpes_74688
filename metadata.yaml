@@ -1,5 +1,8 @@
 _repo: Le-Robinson-des-Alpes_74688
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74688-h/images/cover.jpg
 creator:
   author:
     agent_name: Aimard, Gustave
@@ -12,6 +15,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gustave_Aimard
     - https://en.wikipedia.org/wiki/Gustave_Aimard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74688#Le-Robinson-des-Alpes
 gutenberg_issued: '2024-11-05'
 gutenberg_type: Text
 identifiers:
